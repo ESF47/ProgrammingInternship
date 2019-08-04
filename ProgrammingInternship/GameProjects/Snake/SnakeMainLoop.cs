@@ -15,6 +15,7 @@ namespace ProgrammingInternship.GameProjects.Snake
     }
     class SnakeMainLoop
     {
+        //Change
         // general parameters
         public int score = 0;
         // border parameters are set in the scene setup menu
